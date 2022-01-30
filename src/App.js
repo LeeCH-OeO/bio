@@ -15,7 +15,7 @@ function App() {
           <img src='https://img.shields.io/badge/GitHub-LeeCH--OeO-2ea44f?style=for-the-badge&logo=GitHub' alt='GitHub: LeeCH-OeO'></img>
         </a>
         <p></p>
-        <img src='https://walfiegif.files.wordpress.com/2020/11/out-transparent-53.gif?w=400' style={{'max-width': '100%'}} alt=""></img>
+        <img src='https://walfiegif.files.wordpress.com/2020/11/out-transparent-53.gif' style={{'height':'40vh'}} alt=""></img>
       </div>
       
       
