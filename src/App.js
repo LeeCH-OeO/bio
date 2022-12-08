@@ -8,7 +8,7 @@ function App() {
         style={{ margin: "auto" }}
         alt="icon"
       ></img>
-      <h1 className="title">ChiHsuan Lee</h1>
+      <h1 className="title">Chi-Hsuan Lee</h1>
       <h2 className="title2">
         An undergraduate student major in computer science.
       </h2>
@@ -33,12 +33,6 @@ function App() {
             alt="GitHub: LeeCH-OeO"
           ></img>
         </a>
-        <p></p>
-        <img
-          src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-53.gif"
-          style={{ height: "40vh" }}
-          alt=""
-        ></img>
       </div>
     </div>
   );
