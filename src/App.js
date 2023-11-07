@@ -20,10 +20,10 @@ function App() {
         </strong>
       </h3>
       <div className="imageContainer">
-        <a href="mailto:hi@chihsuan-lee.dev">
+        <a href="mailto:hi@ch-lee.xyz">
           <img
-            src="https://img.shields.io/badge/E--Mail-hi%40chiusuan--lee.dev-blue?style=for-the-badge&logo=Gmail "
-            alt="E-Mail: hi@chihsuan-lee.dev"
+            src="https://img.shields.io/badge/E--Mail-hi%40ch--lee.xyz-blue?style=for-the-badge&logo=Gmail "
+            alt="E-Mail: hi@ch-lee.xyz"
           ></img>
         </a>
 
